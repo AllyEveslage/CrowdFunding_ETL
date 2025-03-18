@@ -11,3 +11,10 @@ subcategory.csv: The CSV file with subcategory data
 campaign.csv: The CSV file with campaign details 
 contacts.csv: The CSV file with campaign details 
 crowdfunding_db_schema.sql: The SQL schema to create the tables in the Postgres database
+
+# Project Structure 
+ETL Pipeline: We extract the data from crowdfunding.xlsx and contacts.xlsx, transform it into a clean format, and load it into a Postgres database
+CSV Files: After transforming the data, it's saved as CSV files
+Postgres Database: The CSV data gets imported into a Postgres database called crowdfunding_db
+ERD: You can check out a visual representation of how the tables are related in the ERD
+
