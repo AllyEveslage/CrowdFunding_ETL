@@ -18,3 +18,10 @@ CSV Files: After transforming the data, it's saved as CSV files
 Postgres Database: The CSV data gets imported into a Postgres database called crowdfunding_db
 ERD: You can check out a visual representation of how the tables are related in the ERD
 
+# Instructions
+The instructions for this mini project are divided into the following subsections:
+- Create the Category and Subcategory DataFrames
+- Create the Campaign DataFrame
+- Create the Contacts DataFrame
+- Create the Crowdfunding Database
+
